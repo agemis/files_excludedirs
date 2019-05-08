@@ -1,6 +1,6 @@
 # Excludedirs
 
-Exclude local directories and files from being included in Nextcloud
+Exclude directories and files from being included in Nextcloud. 
 
 ## Usage
 
