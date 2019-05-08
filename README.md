@@ -17,5 +17,5 @@ any of the rules.
 ## Installation
 
 * Clone the repository (or download and uncompress it) into a new subdirectory under your nextcloud/apps directory called files\_excludedirs
-* In the files\_excludedirs subdirectory run this command to install it: "composer install"
+* Facultative: In the files\_excludedirs subdirectory run this command to install it: "composer install"
 * Make sure the "Exclude directories" app inside nextcloud has been enabled, and you should be good to go!
