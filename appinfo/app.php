@@ -23,7 +23,8 @@
 
 use OCA\Files_ExcludeDirs\AppInfo\Application;
 
-require_once __DIR__ . '/../vendor/autoload.php';
+#require_once __DIR__ . '/../vendor/autoload.php';
+require_once __DIR__ . ;
 
 $app = new Application();
 $app->register();
